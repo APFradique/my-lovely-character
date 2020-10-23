@@ -1,0 +1,26 @@
+h1 {
+    font-size: 30px;
+    color: lightcoral;
+   }
+   
+h2 {
+    font-size: 26px;
+    color: palevioletred;
+    text-align: center;
+   }
+
+.grande {
+       font-size: 60px;
+       }
+
+.maiuscula {
+           text-transform: uppercase;
+          }
+
+.grande.maiuscula {
+                   text-shadow: 3px 3px 5px #531be4;
+                 }
+
+h1 span {
+       color: cornflowerblue;
+    }
